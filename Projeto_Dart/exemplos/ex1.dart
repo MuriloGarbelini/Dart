@@ -1,3 +1,3 @@
-void main() {
-  print('Exemplo 1');
+void main(List<String> args) {
+  print("Olá turma!");
 }
