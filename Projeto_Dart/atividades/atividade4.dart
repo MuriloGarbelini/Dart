@@ -1,7 +1,6 @@
 import 'dart:io';
 
 void main() {
-  // Base sugerida no enunciado
   double salarioMinimo = 1412.0;
 
   stdout.write('Digite o salário do usuário: ');
