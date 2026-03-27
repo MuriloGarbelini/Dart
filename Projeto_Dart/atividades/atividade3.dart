@@ -1,3 +1,9 @@
+import 'dart:io';
+
 void main() {
-  print('Atividade 3 resolvida');
+  stdout.write('Digite um número inteiro: ');
+  int n = int.parse(stdin.readLineSync()!);
+
+  print('Antecessor: ${n - 1}');
+  print('Sucessor: ${n + 1}');
 }
