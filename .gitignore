@@ -1,0 +1,19 @@
+# Flutter/Dart
+.dart_tool/
+build/
+*.log
+.pub/
+.packages
+.pubspec.lock
+
+# IDEs
+**/.idea/
+**/*.iml
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
