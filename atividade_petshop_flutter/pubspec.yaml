@@ -1,16 +1,16 @@
-name: int_flutter
-description: Projeto aula
+name: atividade_petshop_flutter
+description: Atividade Flutter - Gestão de Pet Shop
 publish_to: "none"
 version: 1.0.0+1
 
 environment:
-  sdk: ^3.11.0
+  sdk: ">=3.3.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.8
   http: ^1.2.2
+  cupertino_icons: ^1.0.8
 
 dev_dependencies:
   flutter_test:
